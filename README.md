@@ -294,26 +294,44 @@ python main.py
 
 ## 📚 学习资源
 
-### 项目文档
+### 📖 项目文档（按难度排序）
 
-1. **[学习指南.md](./学习指南.md)** - 1200+ 行完整教程
+#### 🌟 新手必读
+
+1. **[BEGINNER.md](./BEGINNER.md)** - 🎓 初学者完全指南
+   - 零基础也能看懂
+   - 详细的安装步骤
+   - 手把手教学
+   - 常见错误解决
+   - 包含练习任务
+
+2. **[SIMPLE-VERSION.md](./frontend/SIMPLE-VERSION.md)** - 🎯 简化版本参考
+   - 单文件版本（仅100行）
+   - 对比简化版vs完整版
+   - 适合快速理解概念
+
+#### 📖 进阶学习
+
+3. **[学习指南.md](./学习指南.md)** - 📚 完整教程（1200+行）
    - 技术栈详解
    - 后端 FastAPI 逐行解析
    - 前端 Vue 3 详细说明
    - 数据流程图
    - 学习路径建议
 
-2. **[CODE-STYLE.md](./frontend/CODE-STYLE.md)** - 代码风格指南
+#### 🔧 技术深入
+
+4. **[CODE-STYLE.md](./frontend/CODE-STYLE.md)** - 代码风格指南
    - 为什么使用 `function` 声明
    - 何时使用箭头函数
    - 完整对比表
 
-3. **[DATA-FLOW.md](./frontend/DATA-FLOW.md)** - 数据流设计
+5. **[DATA-FLOW.md](./frontend/DATA-FLOW.md)** - 数据流设计
    - 单一数据源原则
    - 架构对比
    - 性能考虑
 
-4. **[MODERN-FEATURES.md](./frontend/MODERN-FEATURES.md)** - 现代化特性
+6. **[MODERN-FEATURES.md](./frontend/MODERN-FEATURES.md)** - 现代化特性
    - Composables 详解
    - 组件化设计
    - TransitionGroup 动画
@@ -327,10 +345,31 @@ python main.py
 
 ## 🎓 适合人群
 
+### 🌟 初学者友好！
+
+本项目特别适合：
+- ✅ **编程初学者** - 提供了详细的初学者指南
 - ✅ 学习 Vue 3 Composition API
 - ✅ 了解前后端分离架构
 - ✅ 掌握 FastAPI 基础用法
 - ✅ 理解现代前端工程化
+
+### 📚 三个学习等级
+
+1. **🟢 入门级** - 阅读 [BEGINNER.md](./BEGINNER.md)
+   - 手把手教学
+   - 从零开始
+   - 常见错误解决
+
+2. **🟡 进阶级** - 阅读 [学习指南.md](./学习指南.md)
+   - 技术详解
+   - 最佳实践
+   - 架构设计
+
+3. **🔴 参考级** - 阅读技术文档
+   - [CODE-STYLE.md](./frontend/CODE-STYLE.md)
+   - [DATA-FLOW.md](./frontend/DATA-FLOW.md)
+   - [MODERN-FEATURES.md](./frontend/MODERN-FEATURES.md)
 
 ## 🚧 待扩展功能
 
