@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(source:*)",
+      "Bash(pip install:*)",
+      "Bash(cat:*)",
+      "Bash(npm install)",
+      "Bash(python main.py:*)",
+      "Bash(npm run dev:*)",
+      "Bash(fc-list:*)",
+      "Bash(tmux:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

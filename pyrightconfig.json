@@ -1,0 +1,20 @@
+{
+  "typeCheckingMode": "off",
+  "reportMissingImports": false,
+  "reportMissingTypeStubs": false,
+  "reportGeneralTypeIssues": false,
+  "reportOptionalMemberAccess": false,
+  "reportOptionalSubscript": false,
+  "reportPrivateImportUsage": false,
+  "reportUnboundVariable": false,
+  "reportUnusedImport": false,
+  "reportUnusedVariable": false,
+  "reportDuplicateImport": false,
+  "stubPath": "",
+  "exclude": [
+    "**/node_modules",
+    "**/__pycache__",
+    "**/venv",
+    "**/.*"
+  ]
+}
